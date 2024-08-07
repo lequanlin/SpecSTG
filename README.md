@@ -14,10 +14,26 @@ pytorchts == 0.6.0
 gluonts == 0.10.0
 ```
 
-
-
 ## Datasets
 In the paper, we evaluate SpecSTG with traffic flow and vehicle speed forecasting tasks. Our experiments include two traffic datasets, PEMS04 and PEMS08. Both datasets can be retrieved from [ASTGNN](https://github.com/guoshnBJTU/ASTGNN/tree/main/data). 
 
+## Training
+```bash
+python 
+```
+
+## Citation
+Please cite the paper as follows:
+```bash
+@article{lin2024specstg,
+  title={Specstg: A fast spectral diffusion framework for probabilistic spatio-temporal traffic forecasting},
+  author={Lin, Lequan and Shi, Dai and Han, Andi and Gao, Junbin},
+  journal={arXiv preprint arXiv:2401.08119},
+  year={2024}
+}
+```
+
+## Recommended Reading
+"Diffusion models for time-series applications: a survey", available at [Springer](https://link.springer.com/article/10.1631/FITEE.2300310).
 
 
