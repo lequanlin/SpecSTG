@@ -8,10 +8,10 @@ This is the source code for “SpecSTG: A Spectral Diffusion Framework for Fast 
 
 ## Requirements
 ```bash 
-torch 2.3.0
+torch 2.0.1
 torch_geometric 2.3.1
-pytorchts 0.6.0
-gluonts 0.10.0
+pytorchts == 0.6.0
+gluonts == 0.10.0
 ```
 
 
