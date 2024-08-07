@@ -1,7 +1,7 @@
 # SpecSTG: A Spectral Diffusion Framework for Fast Probabilistic Spatio-Temporal Graph Forecasting
 
 ## Description
-This is the source code for “SpecSTG: A Spectral Diffusion Framework for Fast Probabilistic Spatio-Temporal Graph Forecasting”, available at [[arXiv]](https://arxiv.org/abs/2401.08119). SpecSTG is a diffusion model for spatio-temporal graph forecasting that generates the graph Fourier representation of time series.
+This is the source code for “SpecSTG: A Spectral Diffusion Framework for Fast Probabilistic Spatio-Temporal Graph Forecasting”. SpecSTG is a diffusion model for spatio-temporal graph forecasting that generates the graph Fourier representation of time series.
 
 Please "star" us if you find the code helpful ✧◝(⁰▿⁰)◜✧
 
@@ -27,17 +27,6 @@ python SpecSTG_exe.py -- load_model = False
 ## Evaluation
 ```bash
 python SpecSTG_exe.py -- load_model = True
-```
-
-## Citation
-Please cite the paper as follows:
-```bash
-@article{lin2024specstg,
-  title={Specstg: A fast spectral diffusion framework for probabilistic spatio-temporal traffic forecasting},
-  author={Lin, Lequan and Shi, Dai and Han, Andi and Gao, Junbin},
-  journal={arXiv preprint arXiv:2401.08119},
-  year={2024}
-}
 ```
 
 ## Recommended Reading
