@@ -31,6 +31,12 @@ python SpecSTG_exe.py -- load_model = True
 
 ## Recommended Reading
 
-Diffusion models for time-series applications: a survey. Frontiers of Information Technology & Electronic Engineering, 25(1), 19-41. Available at [[Springer]](https://link.springer.com/article/10.1631/FITEE.2300310).
+✧ Diffusion models for time-series applications: a survey. Frontiers of Information Technology & Electronic Engineering, 25(1), 19-41. Available at [[Springer]](https://link.springer.com/article/10.1631/FITEE.2300310).
+
+
+✧ Autoregressive denoising diffusion models for multivariate probabilistic time series forecasting. In International Conference on Machine Learning (pp. 8857-8868).
+
+
+✧ Graph convolution recurrent denoising diffusion model for multivariate probabilistic temporal forecasting. In International Conference on Advanced Data Mining and Applications (pp. 661-676). 
 
 
