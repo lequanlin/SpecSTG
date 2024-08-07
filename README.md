@@ -7,5 +7,6 @@ This is the source code for “SpecSTG: A Spectral Diffusion Framework for Fast 
 
 ![Github](https://github.com/user-attachments/assets/bcf3a2fe-2e93-400b-b54f-5d38ccd4fa23)
 
-All datasets are available from the Link: https://github.com/guoshnBJTU/ASTGNN/tree/main/data 
-Please run SpecSTG_exe.py to obtain the training result. 
+## Datasets
+In the paper, we evaluate SpecSTG with traffic flow and vehicle speed forecasting tasks. Our experiments include two traffic datasets, PEMS04 and PEMS08. Both datasets can be retrieved from [ASTGNN](https://github.com/guoshnBJTU/ASTGNN/tree/main/data). 
+
