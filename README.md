@@ -42,8 +42,6 @@ Please cite the paper as follows:
 
 ## Recommended Reading
 
-Lin, L., Li, Z., Li, R., Li, X., & Gao, J. (2024). Diffusion models for time-series applications: a survey. Frontiers of Information Technology & Electronic Engineering, 25(1), 19-41.
-
-Available at [[Springer]](https://link.springer.com/article/10.1631/FITEE.2300310).
+Lin, L., Li, Z., Li, R., Li, X., & Gao, J. (2024). Diffusion models for time-series applications: a survey. Frontiers of Information Technology & Electronic Engineering, 25(1), 19-41. Available at [[Springer]](https://link.springer.com/article/10.1631/FITEE.2300310).
 
 
