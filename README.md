@@ -1,4 +1,4 @@
-# SpecSTG: A Spectral Diffusion Framework for Fast Probabilistic Spatio-Temporal Graph Forecasting
+# SpecSTG: A Spectral Diffusion Framework for Fast Probabilistic Spatio-Temporal Graph Forecasting [ICLR2025 DeLTa Workshop]
 
 ## Description
 This is the source code for “SpecSTG: A Spectral Diffusion Framework for Fast Probabilistic Spatio-Temporal Graph Forecasting”. SpecSTG is a diffusion model for spatio-temporal graph forecasting that generates the graph Fourier representation of time series.
